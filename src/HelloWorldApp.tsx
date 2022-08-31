@@ -4,7 +4,6 @@ const HelloWorldApp = () => {
   return (
     <React.Fragment>
         <div>Hello World App</div>
-        <div>esto es inclreible</div>
     </React.Fragment>
   )
 }

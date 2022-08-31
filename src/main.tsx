@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import FirstApp from './FirstApp'
+import FirstApp from './Components/FirstApp'
 import HelloWorldApp from './HelloWorldApp'
 import './assets/styles.css'
-import CounterApp from './CounterApp/CounterApp'
+import CounterApp from './Components/CounterApp'
 
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
