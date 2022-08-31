@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test component <CounterApp> should create a snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+    style="font-weight: bold;"
+  >
+    CounterApp
+  </h1>
+  <h2>
+    100
+  </h2>
+  <div
+    class="mb-2"
+  >
+    <img
+      src=""
+    />
+  </div>
+  <button
+    class="btn btn-primary d-inline me-2"
+  >
+     +1 
+  </button>
+  <button
+    class="btn btn-primary d-inline me-2"
+  >
+     -1 
+  </button>
+  <button
+    aria-label="btn-reset"
+    class="btn btn-primary d-inline"
+  >
+     Reset 
+  </button>
+</div>
+`;
